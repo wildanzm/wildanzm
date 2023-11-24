@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wildan Zhilal Manafi</h1>
-<img src="https://i.ibb.co/0q95ncm/header-1.png" border="0" style="margin:0 auto;">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wildanzm" alt="wildanzm" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wildanzm&theme=dark" alt="wildanzm" /></a> </p>
 
 - 🔭 I’m currently working as **Software Engineer & Full Stack Developer**
 
