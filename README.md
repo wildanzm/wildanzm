@@ -8,8 +8,7 @@
 - 👨‍💻 All of my projects are available at [wildanzm.github.io](wildanzm.github.io)
 
 - 💬 Ask me about **anything**
-
-- 📫 How to reach me **wildanmanapi123@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
