@@ -13,8 +13,8 @@
 <a href="https://instagram.com/wildannzm_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-</div><h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanzm&layout=compact&theme=radical" alt=wildanzm />
+</div><h3 align="center">Stars</h3>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanzm&layout=compact&theme=radical" alt=wildanzm />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=wildanzm&show_icons=true&locale=en&theme=radical" alt="wildanzm" /></p>
 
