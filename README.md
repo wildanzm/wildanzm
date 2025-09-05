@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wildan Zhilal Manafi</h1>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wildanzm/wildanzm/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wildanzm/wildanzm/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wildanzm/wildanzm/output/pacman-contribution-graph.svg">
+</picture>
+
 ![](https://github-profile-trophy.vercel.app/?username=wildanzm&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
