@@ -2,6 +2,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wildanzm&theme=dark_lover" alt="wildanzm" /></a> </p>
 
+![](https://github-profile-trophy.vercel.app/?username=wildanzm&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+
 - 🔭 I’m currently working as **Software Engineer**
 - 🌱 I’m currently learning **everything**
 - 💬 Ask me about **anything**
