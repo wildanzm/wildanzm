@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wildan Zhilal Manafi</h1>
 
-<img src="https://raw.githubusercontent.com/wildanzm/wildanzm/output/snake.svg" alt="Snake animation" />
-
 ![](https://github-profile-trophy.vercel.app/?username=wildanzm&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 
 - 🔭 I’m currently working as **Software Engineer**
 - 🌱 I’m currently learning **everything**
