@@ -20,8 +20,8 @@
 </div><h3 align="left">Stars</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=wildanzm&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=wildanzm&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wildanzm&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=wildanzm&theme=radical&hide_border=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
